@@ -1,0 +1,9 @@
+/node_modules/
+/crx-unpacked/
+*.xpi
+*.zip
+*.crx
+*.pyc
+*.sh
+package-lock.json
+Thumbs.db
