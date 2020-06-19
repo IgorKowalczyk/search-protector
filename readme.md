@@ -4,10 +4,11 @@
 ## Screenshots
 
 #### Without extension
-<img src="https://igorkowalczyk.github.io/search-protector/lib/readme/without.png alt="Link without extension"/>
+![Image](https://igorkowalczyk.github.io/search-protector/lib/readme/without.png)
 
 #### With extension
-<img src="https://igorkowalczyk.github.io/search-protector/lib/readme/with.png alt="Link with extension"/>
+![Image](https://igorkowalczyk.github.io/search-protector/lib/readme/with.png)
+
 
 ## Install
 
@@ -28,7 +29,7 @@
  - Done!
  
 #### Install with Mozilla Addons: <br>
- Go to [this link](https://addons.mozilla.org) and click "Install" button
+ Go to [this link](https://addons.mozilla.org/pl/firefox/addon/search-protector/) and click "Install" button
  
 ## Install in Opera
  
