@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Search Protector",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Igor Kowalczyk",
   "short_name": "SearchProtector",
   "minimum_chrome_version": "49.0",
