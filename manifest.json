@@ -1,13 +1,13 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Search Protector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Igor Kowalczyk",
-  "short_name": "SP",
+  "short_name": "SearchProtector",
   "minimum_chrome_version": "49.0",
   "minimum_opera_version": "36.0",
   "homepage_url": "https://github.com/igorkowalczyk/search-protector",
-  "description": "Browser extension that prevents Google and Yandex search pages from modifying search result links",
+  "description": "Browser extension that prevents Google and Yandex search pages from modifying search result links.",
 
   "icons": {
     "32": "lib/icons/32.png",
