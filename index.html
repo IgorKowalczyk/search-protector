@@ -45,5 +45,16 @@ ga('send', 'pageview');
 <div class="div"><img class="img" src="./lib/icons/avatar.png" alt="Search Protector Logo"/><h1>Search Protector</h1><p>Search Protector is a Firefox and Opera extension that prevents Google and Yandex search pages from modifying search result links when you click them.</p>
 <p><a class="add" href="/search-protector/add">Add Extension</a></p></div>
 </div>
+<script type="text/javascript">
+document.addEventListener('click', function(event) {
+if (event.target.tagName !== "A" || !event.target.href || event.target.target == "_blank") return;
+event.preventDefault();
+var link = event.target;
+document.body.style.opacity = 0;
+document.body.addEventListener("transitionend", function() {
+location.href = link.href;
+});
+});
+</script>
 </body>
 </html>

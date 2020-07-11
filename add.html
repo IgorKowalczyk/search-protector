@@ -49,5 +49,16 @@ ga('send', 'pageview');
 <p><a class="add" target="_blank" href="https://addons.opera.com/en/extensions/details/search-protector-protect-your-search/">Add To Opera</a></p>
 </div>
 </div>
+<script type="text/javascript">
+document.addEventListener('click', function(event) {
+if (event.target.tagName !== "A" || !event.target.href || event.target.target == "_blank") return;
+event.preventDefault();
+var link = event.target;
+document.body.style.opacity = 0;
+document.body.addEventListener("transitionend", function() {
+location.href = link.href;
+});
+});
+</script>
 </body>
 </html>
