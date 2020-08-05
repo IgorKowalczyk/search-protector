@@ -39,7 +39,7 @@
  - Done!
 
 #### Install with Opera Addons: <br>
- Go to [this link](https://addons.opera.com) and click "Install" button
+ Go to [this link](https://addons.opera.com/en/extensions/details/search-protector-protect-your-search) and click "Install" button
 
 ## Instal in Google Chrome
  - Clone/Fork this repository
