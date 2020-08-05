@@ -1,0 +1,56 @@
+# Main page title
+title: "Search Protector"
+
+# Project name
+name: "Search Protector"
+
+# Project Version
+version: "v0.0.6"
+
+# Contact E-Mail (Public!)
+email: "xxmajonezxx@gmail.com"
+
+# Link to author page
+author: "https://igorkowalczyk.github.io"
+
+# Description
+description: "Search Protector - Protect your privacy"
+
+# Base url (Not link! Only dir, without slash at end)
+baseurl: "/search-protector"
+url: "https://igorkowalczyk.github.io"
+
+# Github username (no link) - if you don't have - leave blank
+github_username:  "igorkowalczyk"
+# Repo from github (Not link! Only name, without slash at end)
+repo: "search-protector"
+
+# Twitter username (no link) - if you don't have - leave blank
+twitter: "@majonezexe"
+
+# First Launch of the site (displays in footer)
+first-launch: "2019"
+
+# Timezone
+timezone: "Europe/Warsaw"
+
+# Markdown and Default theme
+markdown: kramdown
+theme: minima
+
+# Support to mobile browsers (It’s unknown what range of browsers support this meta tags) [Better to set the value to "false"!]
+mobile: "false"
+
+# Encoding (default: utf-8)
+encoding: utf-8
+
+# Exclude files
+exclude:
+ - Gemfile
+ - Gemfile.lock
+
+# Tracking id - if you don't have - leave blank
+tracking_id: "UA-174454816-1"
+
+# Verification ID - if you don't have - leave blank
+verification: "-wuCsk4qLolXEPSUTGX7YBxywcyNNf5HS2ClzgEWxNY"

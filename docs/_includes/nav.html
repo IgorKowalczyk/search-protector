@@ -1,0 +1,10 @@
+-<nav class="nav" role="navigation">
+<span class="logo"><a href="{{ site.baseurl }}" rel="noopener" aria-label="Open home page"><span class="name">{{ site.name }} <span class="tag">{{ site.version }}</a></span>
+<input class="menu-btn" type="checkbox" id="menu-btn" />
+<label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+<ul class="menu">
+<li><a href="{{ site.baseurl }}">Main</a></li>
+{% if site.author %}<li><a href="{{ site.author }}" target="_blank" rel="noopener">Author</a></li>{% endif %}
+{% if site.github and site.repo %}<li><a href="https://github.com/{{ site.github }}/{{ site.repo }}" target="_blank" rel="noopener">Github</a></li>{% endif %}
+</ul>
+</nav>

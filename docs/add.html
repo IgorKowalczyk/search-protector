@@ -1,0 +1,17 @@
+---
+layout: "default"
+title: "Add extension to your browser"
+firstlink: "https://addons.mozilla.org/en-US/firefox/addon/search-protector/"
+firstlinktitle: "Add To Firefox"
+secondlink: "https://addons.opera.com/en/extensions/details/search-protector-protect-your-search/"
+secondlinktitle: "Add To Opera"
+---
+<div class="page-content">
+<img src="{{ site.baseurl }}/lib/svg/lines.svg" alt="Lines"/>
+<div class="div">
+<img class="img" src="{{ site.baseurl }}/lib/icons/avatar.png" alt="Logo"/><h1>{{ site.name }}</h1>
+<p>Select your browser and add extension.</p>
+{% if page.firstlink and page.firstlinktitle %}<p><a class="add" target="_blank" href="{{ page.firstlink }}">{{ site.firstlinktitle }}</a></p>{% endif %}
+{% if page.secondlink and page.secondlinktitle %}<p><a class="add" target="_blank" href="{{ page.secondlink }}">{{ page.secondlinktitle }}</a></p>{% endif %}
+</div>
+</div>
