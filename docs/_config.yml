@@ -1,9 +1,11 @@
 # Main page title
 title: "Search Protector"
 
-# Project name
-name: "Search Protector"
+# Your name
+name: "Igor Kowalczyk"
 
+# Project name
+project: "Search Protector"
 # Project Version
 version: "v0.0.6"
 
@@ -14,7 +16,7 @@ email: "xxmajonezxx@gmail.com"
 author: "https://igorkowalczyk.github.io"
 
 # Description
-description: "Search Protector - Protect your privacy"
+description: "Search Protector is a Firefox and Opera extension that prevents Google and Yandex search pages from modifying search result links when you click them."
 
 # Base url (Not link! Only dir, without slash at end)
 baseurl: "/search-protector"

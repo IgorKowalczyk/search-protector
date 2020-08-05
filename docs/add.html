@@ -11,7 +11,7 @@ secondlinktitle: "Add To Opera"
 <div class="div">
 <img class="img" src="{{ site.baseurl }}/lib/icons/avatar.png" alt="Logo"/><h1>{{ site.name }}</h1>
 <p>Select your browser and add extension.</p>
-{% if page.firstlink and page.firstlinktitle %}<p><a class="add" target="_blank" href="{{ page.firstlink }}">{{ site.firstlinktitle }}</a></p>{% endif %}
+{% if page.firstlink and page.firstlinktitle %}<p><a class="add" target="_blank" href="{{ page.firstlink }}">{{ page.firstlinktitle }}</a></p>{% endif %}
 {% if page.secondlink and page.secondlinktitle %}<p><a class="add" target="_blank" href="{{ page.secondlink }}">{{ page.secondlinktitle }}</a></p>{% endif %}
 </div>
 </div>
