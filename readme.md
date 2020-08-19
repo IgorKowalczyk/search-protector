@@ -49,7 +49,7 @@ Go to [Opera Addon page](https://addons.opera.com/en/extensions/details/search-p
 
 
 ## Instal in Google Chrome
-#### ! Note: This extension is not avaible in Google Web Store!
+> #### Note: This extension is not avaible in Google Web Store!
 
  - Clone/Fork this repository
  - Create `.zip` file from the files
@@ -72,3 +72,6 @@ When submitting a pull request:
 - Clone the repo.
 - Create a branch off of master and give it a meaningful name (e.g. my-awesome-new-feature).
 - Open a [pull request](https://github.com/igorkowalczyk/search-protector/pulls) on [GitHub](https://github.com) and describe the feature or fix.
+
+# License
+This project is licensed under the Mozilla Public License. See the [LICENSE](https://github.com/igorkowalczyk/search-protector/blob/master/license.md) file for details
