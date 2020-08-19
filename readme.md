@@ -11,10 +11,10 @@ Search Protector is a Firefox and Opera extension that prevents Google and Yande
 ## Screenshots
 
 #### Without extension:
-![Image](https://igorkowalczyk.github.io/search-protector/lib/readme/without.png)
+[![Image](https://igorkowalczyk.github.io/search-protector/lib/readme/without.png)](https://igorkowalczyk.github.io/search-protector/add)
 
 #### With extension:
-![Image](https://igorkowalczyk.github.io/search-protector/lib/readme/with.png)
+[![Image](https://igorkowalczyk.github.io/search-protector/lib/readme/with.png)](https://igorkowalczyk.github.io/search-protector/add)
 
 
 
