@@ -10,16 +10,16 @@
   "description": "Browser extension that prevents Google and Yandex search pages from modifying search result links.",
 
   "icons": {
-    "32": "lib/icons/32.png",
-    "48": "lib/icons/48.png",
-    "64": "lib/icons/64.png",
-    "128": "lib/icons/128.png"
+    "32": "visual/lib/icons/32.png",
+    "48": "visual/lib/icons/48.png",
+    "64": "visual/lib/icons/64.png",
+    "128": "visual/lib/icons/128.png"
   },
 
   "browser_action": {
-    "default_icon": "lib/icons/128.png",
+    "default_icon": "visual/lib/icons/128.png",
     "default_title": "Search Protector - Protect your privacy",
-    "default_popup": "popup/index.html"
+    "default_popup": "/visual/popup/index.html"
   },
 
   "content_scripts": [
