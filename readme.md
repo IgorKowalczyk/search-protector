@@ -3,7 +3,6 @@ Search Protector is a Firefox and Opera extension that prevents Google and Yande
 
 [![Jekyll](https://github.com/igorkowalczyk/search-protector/workflows/Jekyll/badge.svg)](https://igorkowalczyk.github.io/search-protector)
 [![GitHub License](https://img.shields.io/github/license/igorkowalczyk/search-protector?color=%2334D058&logo=github&logoColor=959DA5&labelColor=24292E)](https://igorkowalczyk.github.io/search-protector)
-[![Version](https://img.shields.io/github/v/release/igorkowalczyk/search-protector?color=%2334D058&logo=github&logoColor=959DA5&labelColor=24292E)](https://github.com/igorkowalczyk/search-protector/releases)
 [![Mozilla Version](https://img.shields.io/amo/v/search-protector?color=%2334D058&logo=firefox&labelColor=24292E)](https://igorkowalczyk.github.io/search-protector/add)
 [![Mozilla Rating](https://img.shields.io/amo/stars/search-protector?&logo=firefox&labelColor=24292E)](https://igorkowalczyk.github.io/search-protector/add)
 [![Discord](https://img.shields.io/discord/666599184844980224?color=%2334D058&logo=discord&logoColor=7289da&labelColor=24292E)](https://discord.gg/f4KtqNB)
