@@ -59,7 +59,7 @@ Search Protector is a Firefox and Opera extension that prevents Google and Yande
 #### ! Note: This extension is not avaible in Google Web Store!
 
 # Issues
-If you have any issues with the page please create [new issue here](https://github.com/igorkowalczyk/blog/issues)
+If you have any issues with the page please create [new issue here](https://github.com/igorkowalczyk/search-protector/issues)
 
 # Development
 To set up your environment to develop this site, run `bundle install`.
