@@ -11,7 +11,6 @@ font-family: 'Montserrat-Light';
 font-style: normal;
 font-weight: 300;
 src: url("../fonts/montserrat-light.ttf");
-/* Font from the extension Author blog */
 }
 
 p {
@@ -56,6 +55,11 @@ left: 0;
 right: 0;
 margin: auto;
 animation: spin 1s infinite linear;
+}
+
+.link {
+cursor: pointer;
+font-style: italic;
 }
 
 .preloader.fade {
